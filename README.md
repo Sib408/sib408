@@ -1,4 +1,5 @@
-### Hi there 👋
+<iframe src="https://giphy.com/embed/QL8k5zCiNnoUPaABuY" width="421" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dog-computer-laptop-QL8k5zCiNnoUPaABuY">via GIPHY</a></p>
+### Hi there 👋 I'm Irina!
 
 <!--
 **Sib408/sib408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
