@@ -27,9 +27,9 @@
 - 🔭 Стараюсь писать чистый, понятный код
 - 🌱 В свободное время углубленно изучаю JS, React, TypeScript
 - 👯 Интересны проекты с социальным значением
-- 💬 Умею задавать вопросы и выслушивать критику
+- 💬 Умею задавать вопросы и воспринимать критику
 - 📫 Напишите мне: sib408@yandex.ru
-- ⚡ Счастливая владелица левретки Лулу
+
 
  #### Languages and Tools
  <div>
@@ -56,6 +56,6 @@
    
    <h5>Code Style</h5>
    <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="Eslint Badge"/>
-   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"/ alt="Prettier Badge">
-   
+   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"/ alt="Prettier Badge">  
  </div>
+
